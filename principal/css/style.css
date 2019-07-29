@@ -1,0 +1,66 @@
+.bg{
+	background-color:#FFFFFF;
+	color:black;
+	border: solid #000000;
+
+}
+
+.img-social{
+	width:30px;
+	height: 30px;
+	margin-left: 10px;
+	float:;
+}
+
+.position{
+	margin-right: 100px;
+}
+
+.banner{
+	width: 782px;
+	height: 375px;
+}
+
+.cardBack{
+	background-color:#000000;
+	color:#FFFFFF;
+	text-align: center;
+	height:60px;
+}
+
+.cat{
+	text-align:center;
+	color:#000000;
+	text-decoration-line: none;
+	text-decoration-color: none;
+}
+
+.prom{
+	width: 140px;
+	height:100px;
+}
+
+.star{
+	width:100px;
+
+}
+
+/*.st{
+	width:20px;
+	height: 20px;
+}
+
+.proc{
+	width: 165px;
+	height:170px;
+}*/
+
+.explo{
+	width:200px;
+	height:200px;
+}
+
+.banner2{
+	width:1115px;
+	height:350px;
+}
